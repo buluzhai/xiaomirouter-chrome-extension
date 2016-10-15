@@ -1,0 +1,11 @@
+{
+        "name": "download-to-miwifi",
+        "background": {
+            "scripts": [ "base64.js", "background.js" ]
+          },
+        "version": "1.0",
+        "permissions": [
+            "contextMenus"
+        ],
+        "manifest_version": 2
+    }
